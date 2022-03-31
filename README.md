@@ -22,6 +22,14 @@ Recently talks given by QuTiP (Quantum Toolbox in Python) members about the pack
 
 [![Keep your code alive](http://img.youtube.com/vi/aQw7FaRN7Zo/0.jpg)](http://www.youtube.com/watch?v=aQw7FaRN7Zo "Keep your code alive - lessons from the QuTiP project")
 
+## Simulating noisy quantum devices with QuTiP
+
+[![Simulating noisy quantum devices with QuTiP](http://img.youtube.com/vi/Nyzq7CwIFWY/0.jpg)](https://www.youtube.com/watch?v=Nyzq7CwIFWY "Simulating noisy quantum devices with QuTiP")
+
+## Make your code count: Quantum simulations and collaborative code development Introduction to QuTiP: the quantum toolbox in Python
+
+[![Make your code count](http://img.youtube.com/vi/aAlkNuYFi-8/0.jpg)](https://www.youtube.com/watch?v=aAlkNuYFi-8 "Make your code count: Quantum simulations and collaborative code development Introduction to QuTiP: the quantum toolbox in Python")
+
 ## Sneak Peek at QuTiP 5 Roadmap by Simon Cross | QuTiP Community Call Oct 2021
 
 [![Sneak Peek at QuTiP 5 Roadmap](http://img.youtube.com/vi/u2LubstAgqY/0.jpg)](http://www.youtube.com/watch?v=u2LubstAgqY "Sneak Peek at QuTiP 5 Roadmap by Simon Cross | QuTiP Community Call Oct 2021")
@@ -32,4 +40,8 @@ Recently talks given by QuTiP (Quantum Toolbox in Python) members about the pack
 
 ## A CuPy Backend for QuTiP by  Felipe Bivort Haiek | QuTiP Community Call Oct 2021
 
-[![ A CuPy Backend for QuTiP](http://img.youtube.com/vi/e4dvd7_kRXQ/0.jpg)](http://www.youtube.com/watch?v=e4dvd7_kRXQ "A CuPy Backend for QuTiP by  Felipe Bivort Haiek | QuTiP Community Call Oct 2021")
+[![A CuPy Backend for QuTiP](http://img.youtube.com/vi/e4dvd7_kRXQ/0.jpg)](http://www.youtube.com/watch?v=e4dvd7_kRXQ "A CuPy Backend for QuTiP by  Felipe Bivort Haiek | QuTiP Community Call Oct 2021")
+
+## qutip-tensorflow by Asier Galicia | QuTiP Community Call Oct 2021
+
+[![qutip-tensorflow by Asier Galicia](http://img.youtube.com/vi/UPYIlapJaMQ/0.jpg)](https://www.youtube.com/watch?v=UPYIlapJaMQ "qutip-tensorflow by Asier Galicia | QuTiP Community Call Oct 2021")
