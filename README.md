@@ -34,6 +34,11 @@ Recently talks given by QuTiP (Quantum Toolbox in Python) members about the pack
 
 [![Sneak Peek at QuTiP 5 Roadmap](http://img.youtube.com/vi/u2LubstAgqY/0.jpg)](http://www.youtube.com/watch?v=u2LubstAgqY "Sneak Peek at QuTiP 5 Roadmap by Simon Cross | QuTiP Community Call Oct 2021")
 
+## QuTiP-qip: Pulse-level circuits simulation by Boxi Li
+
+
+[![QuTiP-qip: Pulse-level circuits simulation](http://img.youtube.com/vi/q5a38Pw7Rg.jpg)](https://www.youtube.com/watch?v=-q5a38Pw7Rg "QuTiP-qip: Pulse-level circuits simulation by Boxi Li")
+
 ## Quantum Gate Decomposition for QuTiP by Purva Thakre | QuTiP Community Call Oct 2021
 
 [![Quantum Gate Decomposition for QuTiP](http://img.youtube.com/vi/3iP4mimbIzs/0.jpg)](http://www.youtube.com/watch?v=3iP4mimbIzs "Quantum Gate Decomposition for QuTiP by Purva Thakre | QuTiP Community Call Oct 2021")
